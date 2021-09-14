@@ -1,0 +1,4 @@
+{
+    "testFiles": "**/*.feature",
+    "reporter": "cypress-mochawesome-reporter"
+}
